@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ SentinelDF AI
 
 > AI-Powered Digital Forensics Investigation Platform
@@ -41,3 +42,7 @@ AETHER
 ## 📌 Status
 
 🚧 Under Development
+=======
+# SentinelDF-AI
+AI-Powered Digital Forensics Investigation Platform
+>>>>>>> 42b0d2f0404654405f1fd6d3c772dca30aa19c6b
